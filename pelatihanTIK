@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>profil saya - nindy</title>
+<link rel="stylesheet" herf="style.css">
+</head>
+<body>
+<div class="kartu-profil">
+<img src="foto=profil.jpg" alt="foto profil saya">
+<h1>nama lengkap anda</h1>
+<p>Siswa SMA yang tertarik dengan teknologi dan desain.selamat datang di website pertama saya!</p>
+<a href="//www.instagram.com/usernameanda">kunjungi instagram saya</a>
+<button id=sapabutton">sapa saya!</button?
+</div>
+<script src="script.js"></script>
+</html>
+</body>
