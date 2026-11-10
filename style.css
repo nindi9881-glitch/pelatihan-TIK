@@ -15,7 +15,7 @@ box-shadow: 0 4px 8px rgba(0,0,0,0.1); /*efek bayangan */
 |
 
 .kartu-profil img {
-  eidht: 150px;
+  width: 150px;
   border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
 .kartu-profil {
